@@ -2,3 +2,5 @@
 "A¤adiendo contenido en la rama nueva-rama." 
 "Modificaci•n de la rama principal" 
 "Error rama" 
+"Intento 2 de error" 
+"Error" 
